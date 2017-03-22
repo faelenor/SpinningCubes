@@ -20,17 +20,28 @@ In the update of a C# script attached to the cube we rotate the object.
 
 ## 6. Animating VS
 Francis
+
 ## 7. Web Player
 Jennifer
+
 ## 8. API drawcalls
 Jennifer
+
 ## 9. Texture book / Animated Texture 
 Francis
+
 ## 10. 2D texture
+
 ## 11. Rotating camera
+WIP
+
 ## 12. Navmesh ?
-## 13. 
+
+## 13. Draw Mesh
+This method simply pushes a request each frame to draw a cube at different rotation.
+
 ## 14. 
+
 ## 15. 
 
 
