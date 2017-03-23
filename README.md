@@ -30,7 +30,8 @@ Drawing via GL utilities a spinning cube.
 ## 9. Animated Texture 
 Using an array of textures representing a spinning cube and using a script to animate them.
 
-## 10. 2D texture
+## 10. Sprite
+Using a sprite to show an animated spinning cube.
 
 ## 11. Rotating camera
 WIP
