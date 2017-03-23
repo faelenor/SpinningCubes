@@ -35,7 +35,8 @@ Using an array of textures representing a spinning cube and using a script to an
 ## 11. Rotating camera
 WIP
 
-## 12. Navmesh ?
+## 12. Navmesh and look at
+In this method we have the cube always looking at an invisble target. This target turns around you via the use of Nav Mesh.
 
 ## 13. Draw Mesh
 This method simply pushes a request each frame to draw a cube at different rotation.
