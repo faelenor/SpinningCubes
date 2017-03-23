@@ -19,7 +19,7 @@ We play a video on the near plane of the camera which represents a spinning cube
 In the update of a C# script attached to the cube we rotate the object.
 
 ## 6. Animating VS
-Francis
+Using a vertex shader to rotate the cube.
 
 ## 7. Web Player
 Jennifer
