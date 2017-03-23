@@ -22,10 +22,10 @@ In the update of a C# script attached to the cube we rotate the object.
 Using a vertex shader to rotate the cube.
 
 ## 7. Web Player
-Jennifer
+Jennifer - couldnt find a ogg movie on the internet with a spinning cube YET
 
 ## 8. API drawcalls
-Jennifer
+Drawing via GL utilities a spinning cube.
 
 ## 9. Animated Texture 
 Using an array of textures representing a spinning cube and using a script to animate them.
