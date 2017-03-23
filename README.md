@@ -27,8 +27,8 @@ Jennifer
 ## 8. API drawcalls
 Jennifer
 
-## 9. Texture book / Animated Texture 
-Francis
+## 9. Animated Texture 
+Using an array of textures representing a spinning cube and using a script to animate them.
 
 ## 10. 2D texture
 
