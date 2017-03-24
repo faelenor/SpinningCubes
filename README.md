@@ -47,3 +47,6 @@ This method simply pushes a request each frame to draw a cube at different rotat
 ## 15. Import FBX animated cube
 Created in blender an animated cube. Export to FBX after Rigifying the model.
 
+## 16. Particle system
+Simple particle system with only 1 particle, represented by our cube mesh :)
+
