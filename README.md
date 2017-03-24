@@ -50,3 +50,9 @@ Created in blender an animated cube. Export to FBX after Rigifying the model.
 ## 16. Particle system
 Simple particle system with only 1 particle, represented by our cube mesh :)
 
+## 17. Cubic fog in the eye of a twister
+Well... isnt it obvious ?
+
+## 18. Animated Text
+Spinning cube viewed from the top but rendered via GUI Text.
+
