@@ -41,8 +41,8 @@ In this method we have the cube always looking at an invisble target. This targe
 ## 13. Draw Mesh
 This method simply pushes a request each frame to draw a cube at different rotation.
 
-## 14. 
+## 14. Network replica
 
-## 15. 
-
+## 15. Import FBX animated cube
+Created in blender an animated cube. Export to FBX after Rigifying the model.
 
