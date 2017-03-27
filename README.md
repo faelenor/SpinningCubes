@@ -34,7 +34,7 @@ Using an array of textures representing a spinning cube and using a script to an
 Using a sprite to show an animated spinning cube.
 
 ## 11. Rotating camera
-WIP
+Camera animation: rotation around the cube.
 
 ## 12. Navmesh and look at
 In this method we have the cube always looking at an invisble target. This target turns around you via the use of Nav Mesh.
@@ -52,7 +52,7 @@ Created in blender an animated cube. Export to FBX after Rigifying the model.
 Simple particle system with only 1 particle, represented by our cube mesh :)
 
 ## 17. Cubic fog in the eye of a twister
-Well... isnt it obvious ?
+Well... isnt it obvious? Not done yet (and probably never).
 
 ## 18. Animated Text
 Spinning cube viewed from the top but rendered via GUI Text.
